@@ -16,16 +16,16 @@ As a reference of what each Airlines code represents<br><br>
 </span></p>
 
 
-# 🗺️  Explore:
+### 🗺️  Explore:
 What is the most common cause of cancelations in Airlines?<br>
 - Weather
 - Airline/carrier
 - National Air System
 - Security
 
-# 📊Visualize:
+### 📊Visualize:
 Visualize a time-series of the airlines' average delay over the year(2015)<br>
 - Can you spot any changes over the months/ days?
 
-# 🔎Analyze:
+### 🔎Analyze:
 Train and build a logistic regression model to predict if a flight will be canceled or not. 
